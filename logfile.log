@@ -1,0 +1,32 @@
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"level":"error","message":"name is not defined name is not defined","stack":"ReferenceError: name is not defined\n    at router.post (/home/aris/Dev/restApiNode/routes/auth.js:21:29)"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"level":"error","message":"data and hash arguments required data and hash arguments required","stack":"Error: data and hash arguments required\n    at Object.compare (/home/aris/Dev/restApiNode/node_modules/bcrypt/bcrypt.js:208:17)\n    at /home/aris/Dev/restApiNode/node_modules/bcrypt/promises.js:29:12\n    at new Promise (<anonymous>)\n    at Object.module.exports.promise (/home/aris/Dev/restApiNode/node_modules/bcrypt/promises.js:20:12)\n    at Object.compare (/home/aris/Dev/restApiNode/node_modules/bcrypt/bcrypt.js:204:25)\n    at router.post (/home/aris/Dev/restApiNode/routes/auth.js:19:38)"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
+{"message":"Listening on port 4444...","level":"info"}
+{"message":"Connected to mongodb://localhost/grt...","level":"info"}
