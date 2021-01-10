@@ -6,7 +6,7 @@ const movies = require("../routes/movies");
 const rentals = require("../routes/rentals");
 const users = require("../routes/users");
 const auth = require("../routes/auth");
-const dynamic = require("../routes/dynamic");
+// const dynamic = require("../routes/dynamic");
 const returns = require("../routes/returns");
 const error = require("../middleware/error");
 
